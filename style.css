@@ -6,6 +6,9 @@ a{
     color: white;
     font-size: 30px;
 }
+.bold{
+    font-weight: bold;
+}
 .glow-on-hover {
     width: 220px;
     height: 50px;
