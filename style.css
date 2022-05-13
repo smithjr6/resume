@@ -2,6 +2,9 @@ body{
     background-color: azure;
     text-align: center;
 }
+button{
+    font-size: 30px;
+}
 a{
     color: white;
     font-size: 30px;
