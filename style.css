@@ -9,6 +9,9 @@ a{
     color: white;
     font-size: 30px;
 }
+li{
+    text-align: center;
+}
 .bold{
     font-weight: bold;
 }
