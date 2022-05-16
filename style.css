@@ -16,19 +16,19 @@ a{
     font-family: Arial, Helvetica, sans-serif;
 }
 #index{
-    font-family: sans-serif;
+    font-family: serif;
 }
 #contact{
     font-family: "Times New Roman", Times, serif; 
 }
 #hobbies{
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Papyrus", fantasy;
 }
 #form{
-    font-family: 
+    font-family: serif;
 }
 #education{
-    font-family: 
+    font-family: sans-serif
 }
 
 .glow-on-hover {
