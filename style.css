@@ -13,8 +13,24 @@ a{
     font-weight: bold;
 }
 .Helvetica{
-    font-family: Helvetica;
+    font-family: Arial, Helvetica, sans-serif;
 }
+#index{
+    font-family: sans-serif;
+}
+#contact{
+    font-family: "Times New Roman", Times, serif; 
+}
+#hobbies{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#form{
+    font-family: 
+}
+#education{
+    font-family: 
+}
+
 .glow-on-hover {
     width: 220px;
     height: 50px;
