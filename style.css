@@ -9,11 +9,11 @@ a{
     color: white;
     font-size: 30px;
 }
-h1{
-    font-size: 40px;
-}
 .bold{
     font-weight: bold;
+}
+#welcome{
+    font-size: 40px;
 }
 #index{
     font-family: serif;
