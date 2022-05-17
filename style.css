@@ -9,6 +9,9 @@ a{
     color: white;
     font-size: 30px;
 }
+h1{
+    font-size: 40px;
+}
 .bold{
     font-weight: bold;
 }
