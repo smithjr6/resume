@@ -17,6 +17,7 @@ p{
 }
 #welcome{
     font-size: 40px;
+    font-weight: bold;
 }
 #index{
     font-family: serif;
