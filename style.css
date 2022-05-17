@@ -9,6 +9,9 @@ a{
     color: white;
     font-size: 30px;
 }
+p{
+    font-size: 15px;
+}
 .bold{
     font-weight: bold;
 }
