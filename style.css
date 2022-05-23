@@ -12,6 +12,8 @@ a{
 p{
     font-size: 15px;
 }
+
+
 .bold{
     font-weight: bold;
 }
@@ -19,6 +21,8 @@ p{
     font-size: 40px;
     font-weight: bold;
 }
+
+
 #index{
     font-family: serif;
 }
@@ -34,6 +38,7 @@ p{
 #education{
     font-family: sans-serif
 }
+
 
 .glow-on-hover {
     width: 220px;
